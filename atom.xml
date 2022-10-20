@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://tomcat008.github.io/max.github.io/</id>
+    <title>Max的小站</title>
+    <updated>2022-10-20T00:20:07.686Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://tomcat008.github.io/max.github.io/"/>
+    <link rel="self" href="https://tomcat008.github.io/max.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://tomcat008.github.io/max.github.io/images/avatar.png</logo>
+    <icon>https://tomcat008.github.io/max.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Max的小站</rights>
+    <entry>
+        <title type="html"><![CDATA[您好，欢迎来到的Max的小站]]></title>
+        <id>https://tomcat008.github.io/max.github.io/post/hi/</id>
+        <link href="https://tomcat008.github.io/max.github.io/post/hi/">
+        </link>
+        <updated>2022-10-19T09:21:38.000Z</updated>
+        <summary type="html"><![CDATA[<p>我是Max，现在是山东省菏泽市牡丹区实验小学四年级的一名小学生，再次感谢您来到我的小站。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>我是Max，现在是山东省菏泽市牡丹区实验小学四年级的一名小学生，再次感谢您来到我的小站。</p>
+<!-- more -->
+<p>下面是我的学校：<br>
+<img src="https://tomcat008.github.io/max.github.io//post-images/1666172597473.jpeg" alt="爱绘画4岁的Max" loading="lazy"><br>
+我非常爱我的学校和老师</p>
+]]></content>
+    </entry>
+</feed>
